@@ -1,0 +1,10 @@
+C:\Users\Mario Iordachioaia\VisualStudioCode\Rust\rustic_calculator\target\debug\deps\meval-bf951a3216d9313e.rmeta: C:\Users\Mario\ Iordachioaia\.cargo\registry\src\github.com-1ecc6299db9ec823\meval-0.2.0\src\lib.rs C:\Users\Mario\ Iordachioaia\.cargo\registry\src\github.com-1ecc6299db9ec823\meval-0.2.0\src\expr.rs C:\Users\Mario\ Iordachioaia\.cargo\registry\src\github.com-1ecc6299db9ec823\meval-0.2.0\src\shunting_yard.rs C:\Users\Mario\ Iordachioaia\.cargo\registry\src\github.com-1ecc6299db9ec823\meval-0.2.0\src\tokenizer.rs
+
+C:\Users\Mario Iordachioaia\VisualStudioCode\Rust\rustic_calculator\target\debug\deps\libmeval-bf951a3216d9313e.rlib: C:\Users\Mario\ Iordachioaia\.cargo\registry\src\github.com-1ecc6299db9ec823\meval-0.2.0\src\lib.rs C:\Users\Mario\ Iordachioaia\.cargo\registry\src\github.com-1ecc6299db9ec823\meval-0.2.0\src\expr.rs C:\Users\Mario\ Iordachioaia\.cargo\registry\src\github.com-1ecc6299db9ec823\meval-0.2.0\src\shunting_yard.rs C:\Users\Mario\ Iordachioaia\.cargo\registry\src\github.com-1ecc6299db9ec823\meval-0.2.0\src\tokenizer.rs
+
+C:\Users\Mario Iordachioaia\VisualStudioCode\Rust\rustic_calculator\target\debug\deps\meval-bf951a3216d9313e.d: C:\Users\Mario\ Iordachioaia\.cargo\registry\src\github.com-1ecc6299db9ec823\meval-0.2.0\src\lib.rs C:\Users\Mario\ Iordachioaia\.cargo\registry\src\github.com-1ecc6299db9ec823\meval-0.2.0\src\expr.rs C:\Users\Mario\ Iordachioaia\.cargo\registry\src\github.com-1ecc6299db9ec823\meval-0.2.0\src\shunting_yard.rs C:\Users\Mario\ Iordachioaia\.cargo\registry\src\github.com-1ecc6299db9ec823\meval-0.2.0\src\tokenizer.rs
+
+C:\Users\Mario\ Iordachioaia\.cargo\registry\src\github.com-1ecc6299db9ec823\meval-0.2.0\src\lib.rs:
+C:\Users\Mario\ Iordachioaia\.cargo\registry\src\github.com-1ecc6299db9ec823\meval-0.2.0\src\expr.rs:
+C:\Users\Mario\ Iordachioaia\.cargo\registry\src\github.com-1ecc6299db9ec823\meval-0.2.0\src\shunting_yard.rs:
+C:\Users\Mario\ Iordachioaia\.cargo\registry\src\github.com-1ecc6299db9ec823\meval-0.2.0\src\tokenizer.rs:
