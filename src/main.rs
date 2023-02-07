@@ -1,7 +1,7 @@
-mod processes;
+use rustic_calculator::processes; 
 
 pub fn main() -> anyhow::Result<()> {
-    let arithmetics = processes::json_gather::read_json("root/processes/file.json")?;
+    let arithmetics = processes::json_gather::read_json("src/data/file.json")?;
     let equation = processes::gather::get_equation()?;
     let translated_equation = processes::solve::translate_equation(&equation, &arithmetics);
     let equation_result = processes::solve::process_equation(&translated_equation, &equation)?;
@@ -13,3 +13,4 @@ pub fn main() -> anyhow::Result<()> {
 
     Ok(())
 }
+
